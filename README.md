@@ -12,7 +12,7 @@ This project analyzes a dataset for BigBasket, simulating an end-to-end data pip
 * `02_aggregation_joins.sql`: SQL queries demonstrating INNER and LEFT JOINs.
 * `03_reporting.sql`: Complex reporting queries including tiering and variance calculations.
 * `monthly_category_revenue.csv`: The clean data export used for spreadsheet and dashboard analysis.
-* `Part2_Spreadsheet.xlsx`: Spreadsheet cross-checking SQL outputs via pivot tables and lookup formulas.
+* `Spreadsheet.xlsx`: Spreadsheet cross-checking SQL outputs via pivot tables and lookup formulas.
 * `analysis.ipynb`: Jupyter Notebook detailing Pandas data cleaning, outlier handling (IQR), and analysis.
 * `DATA_STORY.md`: Business interpretation and actionable recommendations based on the dashboard.
 * `ai_log.md`: Documentation of AI assistance used during the project.
